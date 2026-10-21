@@ -2,7 +2,7 @@
 
 A tree grid in **React + TypeScript** that renders only the rows you can see, so it stays smooth on hundreds of thousands of rows. No UI or grid libraries: the virtualization, tree flattening, search and keyboard handling are all written from scratch.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** https://virtual-treegrid.vercel.app/
 
 ## What it does
 
